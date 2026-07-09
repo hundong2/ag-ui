@@ -65,7 +65,7 @@ AG-UI 흐름은 보통 아래와 같습니다.
 
 ## 5) 다음에 보면 좋은 문서
 
-- 루트 소개: `../README.md`
+- 루트 소개: `/README.md`
 - 공식 문서 시작점: https://docs.ag-ui.com/introduction
 - 개념 문서: https://docs.ag-ui.com/concepts/events
 
